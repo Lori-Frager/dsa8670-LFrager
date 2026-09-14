@@ -1,9 +1,11 @@
 DSA 8670 — Introduction
 
-Name: [STUDENT NAME]
+Name: [Lori Frager]
 
 Major / program:
 
 Favorite dataset or industry interest:
 
 One reason I am studying analytics:
+
+Added my name to intro.txt
