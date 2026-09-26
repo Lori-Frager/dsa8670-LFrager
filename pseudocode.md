@@ -5,8 +5,6 @@ date: "2026-09-26"
 output: html_document
 ---
 
-
-
 ## Pseudocode
 
 ### Step 1: Load the dataset
