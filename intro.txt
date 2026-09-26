@@ -2,10 +2,10 @@ DSA 8670 — Introduction
 
 Name: [Lori Frager]
 
-Major / program:
+Major / program: Master's of Data Science and Analytics
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: 
 
-One reason I am studying analytics:
+One reason I am studying analytics: 
 
 Added my name to intro.txt
