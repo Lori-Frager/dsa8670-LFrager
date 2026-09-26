@@ -1,5 +1,21 @@
 # DSA 8670 — GitHub Practice Repository
 
+---
+
+## Why version control matters for analytics
+
+From practice, version control matters for analytics because if in a month or two, the actual data is
+updated because of change of a percent allocation, I have to update the file. However, when I save it,
+I add a new date added to the end.  I can tell then which is the latest set of data that I should be 
+using for visuals or other information. I also can make sure that the totals are still correct.  If 
+not, I need to go back and find my mistake between the two versions.
+
+If you run the code and after a couple of days you decide to make edits to it and run the code again,
+but now it is not working correctly, you need to be able to go back to that original code that was 
+running correctly, not the one in which you made the mistake.
+
+---
+
 This is your personal practice repository for DSA 8670. You created it from the course
 template, and it belongs to you. Nothing you do here affects anyone else's copy.
 
