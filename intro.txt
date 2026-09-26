@@ -6,6 +6,6 @@ Major / program: Master's of Data Science and Analytics
 
 Favorite dataset or industry interest: Asheville, NC Airbnb
 
-One reason I am studying analytics: 
+One reason I am studying analytics: I like how the data shows trends and what we can predict from them.
 
 Added my name to intro.txt
