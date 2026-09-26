@@ -3,6 +3,7 @@
 ---
 
 ## Why version control matters for analytics
+
 From practice, version control matters for analytics because if in a month or two, the actual data is
 updated because of change of a percent allocation, I have to update the file. However, when I save it,
 I add a new date added to the end.  I can tell then which is the latest set of data that I should be 
